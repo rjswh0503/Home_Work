@@ -8,7 +8,7 @@ public class Practice4 {
 
 
         if (num > 0){
-            for (int i = 1; i <= 0; i++){
+            for (int i = 1; i <= num; i++){
                 System.out.println(i + "");
             }
             } else {
