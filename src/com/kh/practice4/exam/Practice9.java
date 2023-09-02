@@ -35,13 +35,15 @@ public class Practice9 {
 
 
                 }
-                break;
-            }else if(num >= 10 ){
 
-                System.out.println("9 이하의 숫자만 입력해주세요.");
+            }else if(num > 9){
+
+
 
 
             }
+            System.out.println("9이하의 숫자를 입력하세요.");
+            break;
 
         }
 
