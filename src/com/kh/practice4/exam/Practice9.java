@@ -45,6 +45,7 @@ public class Practice9 {
             System.out.println("9이하의 숫자를 입력하세요.");
             break;
 
+
         }
 
 
