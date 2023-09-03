@@ -2,6 +2,12 @@ package com.kh.practice.array;
 
 import java.util.Scanner;
 
+
+// 실습문제 3
+
+
+
+
 public class ArrayPractice1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
