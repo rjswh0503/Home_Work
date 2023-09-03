@@ -28,7 +28,7 @@ public class ArrayPractice6 {
             }else{
                 copy[i] = '*';
             }
-            System.out.println(copy[i]);
+            System.out.print(copy[i]);
         }
 
 
