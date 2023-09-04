@@ -1,4 +1,4 @@
-package com.kh.practice.array;
+package JAVA_HomeWork.practice.array;
 
 import java.util.Scanner;
 
