@@ -1,4 +1,4 @@
-package com.kh.practice4.exam;
+package JAVA_HomeWork.practice4.exam;
 
 import java.util.Scanner;
 

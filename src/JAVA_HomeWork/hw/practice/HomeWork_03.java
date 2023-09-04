@@ -1,4 +1,4 @@
-package com.kh.hw.practice;
+package JAVA_HomeWork.hw.practice;
 
 import java.util.Scanner;
 
