@@ -17,7 +17,7 @@ public class Student {
 
     public void information(){
 
-        System.out.println(" 학점 : " + grade +"점");
+        System.out.println(" 학년 : " + grade +);
         System.out.println(" 반 : " + classroom);
         System.out.println(" 이름 : " + name);
         System.out.println(" 키 : " + height);
